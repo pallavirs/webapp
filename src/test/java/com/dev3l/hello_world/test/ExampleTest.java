@@ -7,6 +7,6 @@ public class ExampleTest {
 	@Test
 	public void exampleTest() {
 		Assert.assertTrue(true);
-		System.out("changed");
+		System.out.println("changed");
 	}
 }
